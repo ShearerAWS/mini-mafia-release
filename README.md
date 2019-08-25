@@ -9,4 +9,4 @@ Members of the local mafia have infiltrated the ranks of the police force. Work 
 
 Mini Mafia is a deception-based party game designed for 5-10 players similar to Mafia or Werewolf. But unlike regular mafia, no player is eliminated during the game. In order to stop the mafia, officers must work together to complete important tasks for the investigation. Hidden among the group are members of the mafia, who will try to sabotage these tasks. As a police officer, you will need to figure out who you can actually trust. As a mafia member, you will have to keep your identity secret while deceiving your friends. 
 
-In order to play, each player needs their own device connected to the same WiFi network or mobile hotspot. Games can be played across multiple different devices.
+In order to play, each player needs their own device connected to the same WiFi network or mobile hotspot. Games can be played across multiple different devices, including between iOS and Android.
